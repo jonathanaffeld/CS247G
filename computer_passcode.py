@@ -12,7 +12,7 @@ def fake_type(words):
 while True:
     fake_type("Please enter the password to unlock the computer: ")
     i = input("")
-    if i == "c@terp1lL3r":
+    if i == "c@teRp1lL3r":
         break
     else:
         s1 = "\nInvalid attempt, please try again\nEnter Password: "
